@@ -1,0 +1,182 @@
+Username (not for points),Assign_test.cpp,Back_test.cpp,Clear_test.cpp,CopyConstructor_test.cpp,Empty_test.cpp,Erase_test.cpp,Front_test.cpp,Insert_test.cpp,OpEqual_test.cpp,PopBack_test.cpp,PopFront_test.cpp,PushBack_test.cpp,PushFront_test.cpp,Remove_test.cpp,Reverse_test.cpp,Size_test.cpp,"Username accurate (0 good, 1 bad)",Bytes definitely lost (memory leak) (0 is perfect)
+ryy5fm,"In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Assign_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Assign_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Back_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Back_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Clear_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Clear_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/CopyConstructor_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/CopyConstructor_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Empty_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Empty_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Erase_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Erase_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Front_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Front_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Insert_test.cpp:4:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Insert_test.cpp:4:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/OpEqual_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/OpEqual_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/PopBack_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/PopBack_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/PopFront_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/PopFront_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/PushBack_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/PushBack_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/PushFront_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/PushFront_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Remove_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Remove_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Reverse_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Reverse_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from unit_tests/Size_test.cpp:3:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from unit_tests/Size_test.cpp:3:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from name_test/00name_test.cpp:1:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from name_test/00name_test.cpp:1:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+","In file included from hw/ryy5fm/MyList.h:112,
+                 from mem_test/mem_test.cpp:2:
+hw/ryy5fm/MyList.hpp:10:6: error: no declaration matches ‘void MyList<T>::printList()’
+   10 | void MyList<T>::printList()
+      |      ^~~~~~~~~
+hw/ryy5fm/MyList.hpp:10:6: note: no functions named ‘void MyList<T>::printList()’
+In file included from mem_test/mem_test.cpp:2:
+hw/ryy5fm/MyList.h:44:7: note: ‘class MyList<T>’ defined here
+   44 | class MyList
+      |       ^~~~~~
+"
